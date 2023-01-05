@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    color: black;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 12px;
+}
+
+h1 {
+    color: #66bfbf;
+    font-size: 70px;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-weight: normal;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto 0 auto;
+    font-weight: normal;
+}
+
+h3 {
+    color: #66bfbf;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    color: #66bfbf;
+}
+
+p {
+    color: #40514e;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #66bfbf;
+    border-width: 5px;
+    width: 10%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.young-man {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+.top-container {
+    background-color: #eaf6f6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: white;
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 15px;
+}
+
+.bottom-container {
+    background-color: #45b29a;
+    position: relative;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 100px;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 25px auto 100px auto;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.keith-img {
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.file-img {
+    width: 25%;
+    float: left;
+}
+
+.skills {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.bootstrap-img {
+    width: 25%;
+    float: right;
+}
+
+.javascript-img {
+    width: 25%;
+    float: left;
+}
+
+.gossip-img {
+    width: 25%;
+    float: right;
+}
+
+.contact-me {
+    padding-top: 0;
+    margin-bottom: 50px;
+}
+
+.line-break {
+    margin: -25 0 0 0;
+}
